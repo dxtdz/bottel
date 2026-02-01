@@ -1,7 +1,7 @@
 /**
  * @command /menu
  * @category Hỗ trợ
- * @author tnt
+ * @author DinhXuanThang
  * @date 2025-03-01
  * @usage /menu
  * @description Xem các lệnh của Bot.
