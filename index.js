@@ -7,8 +7,8 @@ const setupAutoNoti = require('./functions/autonoti');
 const sendUptime = require('./functions/uptime');
 
 // Thêm trực tiếp thông tin vào mã nguồn
-const token = "8161840769:AAFb1QNttDcjn_P3ZD12IT_Tto27jdsYRG4";
-const adminId = "6602753350";
+const token =  "8040320547:AAFW7_W6tXxTLcgSNFsxClVGO6qQOmbcbdY";
+const adminId = "7934371636";
 const groupId = "-1002394487171";
 
 // Khởi tạo bot với token
